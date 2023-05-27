@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an aspiring computer science passionate about 
 
 ## 🌱 Skills
 
-# - Programming languages: 
+## Programming languages: 
 
 - Python
 - HTML/CSS/JS
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm an aspiring computer science passionate about 
 - GoLang
 - SQL
 
-# - Frameworks and libraries: 
+## Frameworks and libraries: 
 
 - SvelteKit
 - React
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm an aspiring computer science passionate about 
 - NodeJS
 - PyTorch
 
-# - Tools and technologies: 
+## Tools and technologies: 
 
 - Adobe Photoshop
 - Adobe Illustrator
