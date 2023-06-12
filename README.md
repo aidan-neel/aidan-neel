@@ -10,39 +10,36 @@ Welcome to my GitHub profile! I'm an aspiring computer science passionate about 
 - SimpleBase 🚀 A self hosted SQLite3 database similar to PocketBase with a CUI.
   
 ## 🔜 Planned Projects
-- TriviaNow
-- Vesteria
-- Discord Bot
-- Tasklet
-- AI Chatbot
-- Password Manager App
-- Addington Corgis Website
+    - TriviaNow
+    - Vesteria
+    - Discord Bot
+    - Tasklet
+    - AI Chatbot
+    - Password Manager App
+    - Addington Corgis Website
 
 ## 🌱 Skills
 
 ### 🤖 Programming languages: 
-- Python
-- HTML/CSS/JS
-- TypeScript
-- GoLang
-- SQL
+    - Python
+    - HTML/CSS/JS
+    - TypeScript
+    - GoLang
+    - SQL
 
 ### 📚 Frameworks and libraries: 
-- SvelteKit
-- React
-- NextJS
-- NuxtJS
-- NodeJS
-- PyTorch
+    - SvelteKit
+    - React
+    - NextJS
+    - NodeJS
 
 ### 💻 Tools and technologies: 
-- Adobe Photoshop
-- Adobe Illustrator
-- Firebase
-- Pocketbase
-- AWS services
-- Google Cloud services
+    - Adobe Photoshop
+    - Adobe Illustrator
+    - FireBase
+    - PocketBase
+    - Amazon Web Services
+    - Google Cloud Platform
 
 ## 🤝 Contributions and Collaborations
-
-I'm open to collaborations and contributions. If you're interested in working together on an exciting project or have any suggestions, feel free to reach out!
+    I'm open to collaborations and contributions. If you're interested in working together on an exciting project or have any suggestions, feel free to reach out!
