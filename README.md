@@ -4,10 +4,11 @@ Welcome to my GitHub profile! I'm an aspiring computer science passionate about 
 
 ## 🙌 Completed Projects
 - [RaidAPI]("https://api.aidanneel.xyz/get-items")
+- [Spotimaker](https://spotimaker.com) Discontinued due to Technical Limitations by Spotify
 
 ## 🏗️ Working Projects
-- [Spotimaker](https://spotimaker.com)
-
+- SimpleBase 🚀 A self hosted SQLite3 database similar to PocketBase with a CUI.
+  
 ## 🔜 Planned Projects
 - TriviaNow
 - Vesteria
