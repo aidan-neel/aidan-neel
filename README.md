@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm an aspiring computer science passionate about 
 - [Spotimaker](https://spotimaker.com) Discontinued due to Technical Limitations by Spotify
 
 ## 🏗️ Working Projects
-- SimpleBase 🚀 A self hosted SQLite3 database similar to PocketBase with a CUI.
+- SimpleBase 🚀 An open source self hosted database with a JavaScript SDK.
   
 ## 🔜 Planned Projects
   - TriviaNow
