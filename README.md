@@ -21,6 +21,8 @@ Welcome to my GitHub profile! I'm an aspiring computer science passionate about 
 ## 🌱 Skills
 
 ### 🤖 Programming languages: 
+  - Luau
+  - C++
   - Python
   - HTML/CSS/JS
   - TypeScript
