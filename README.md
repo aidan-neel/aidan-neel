@@ -1,13 +1,13 @@
 # Hello, I'm Aidan! 👋
 
-Welcome to my GitHub profile! I'm an aspiring computer science passionate about software engineering, machine learning, data science, web development. I love using frameworks like NuxtJS. Here you'll find some of my projects and contributions.
+Welcome to my GitHub profile! I'm an aspiring computer science passionate about software engineering, machine learning, data science, web development. I love using frameworks like SvelteKit, and Flask. I also love using languages like Python and C++. Here you'll find some of my projects and skills.
 
 ## 🙌 Completed Projects
 - [RaidAPI]("https://api.aidanneel.xyz/get-items")
-- [Spotimaker](https://spotimaker.com) Discontinued due to Technical Limitations by Spotify
 
 ## 🏗️ Working Projects
-- SimpleBase 🚀 An open source self hosted database with a JavaScript SDK.
+- SimpleBase 🚀 An open source self hosted database with a JavaScript SDK. ⏸️⏸️
+- Playlist-Mood 🎹 The most accurate Spotify playlist generator for your preferences.
   
 ## 🔜 Planned Projects
   - TriviaNow
@@ -31,12 +31,13 @@ Welcome to my GitHub profile! I'm an aspiring computer science passionate about 
   - SvelteKit
   - React
   - NextJS
+  - Flask
   - NodeJS
 
 ### 💻 Tools and technologies: 
   - Adobe Photoshop
   - Adobe Illustrator
-  - FireBase
+  - Firebase
   - PocketBase
   - Amazon Web Services
   - Google Cloud Platform
