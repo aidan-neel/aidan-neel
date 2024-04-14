@@ -24,6 +24,8 @@
 
 ![Neel UI](https://github.com/aidan-neel/aidan-neel/blob/main/neel-ui.png?raw=true)
 
+![Pocketsvelte](https://github.com/aidan-neel/aidan-neel/blob/main/pocketsvelte.png?raw=true)
+
 ![EasyJWT](https://github.com/aidan-neel/aidan-neel/blob/main/easyjwt.png?raw=true)
 
 ![Stitch Messaging](https://github.com/aidan-neel/aidan-neel/blob/main/stitch.png?raw=true)
