@@ -22,8 +22,6 @@
 
 ## What I'm working on
 
-![Neel UI](https://github.com/aidan-neel/aidan-neel/blob/main/neel-ui.png?raw=true)
-
 ![Pocketsvelte](https://github.com/aidan-neel/aidan-neel/blob/main/pocketsvelte.png?raw=true)
 
 ![EasyJWT](https://github.com/aidan-neel/aidan-neel/blob/main/easyjwt.png?raw=true)
