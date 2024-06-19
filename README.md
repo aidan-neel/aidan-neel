@@ -19,11 +19,3 @@
 ![PocketBase](https://img.shields.io/badge/PocketBase-FF6B00?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)
-
-## What I'm working on
-
-![Pocketsvelte](https://github.com/aidan-neel/aidan-neel/blob/main/pocketsvelte.png?raw=true)
-
-![EasyJWT](https://github.com/aidan-neel/aidan-neel/blob/main/easyjwt.png?raw=true)
-
-![Stitch Messaging](https://github.com/aidan-neel/aidan-neel/blob/main/stitch.png?raw=true)
