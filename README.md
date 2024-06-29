@@ -1,5 +1,3 @@
-![Hey! I'm Aidan Neel](https://github.com/aidan-neel/aidan-neel/blob/main/header.png?raw=true)
-
 ## Technical Skills
 
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-f1413d?style=for-the-badge&logo=svelte&logoColor=white)
