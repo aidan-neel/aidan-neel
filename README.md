@@ -20,4 +20,4 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
-![Dexter](https://cdn.discordapp.com/attachments/1297395023590985819/1326080047651491941/dexter-dexter-morgan.gif?ex=677e1fc8&is=677cce48&hm=5449164ca5411012a8375ee93846dec6cea8bd7b4c945a6d88657dac60ba3ab4&)
+![Dexter](https://media1.tenor.com/m/oXphM_JeyMoAAAAd/pointing-looking.gif)
