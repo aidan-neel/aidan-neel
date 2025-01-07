@@ -22,4 +22,4 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
 
-![Dexter](https://media1.tenor.com/m/oXphM_JeyMoAAAAd/pointing-looking.gif)
+![Dexter](https://media1.tenor.com/m/iOV-tnQcoU8AAAAd/dexter-the-series.gif)
