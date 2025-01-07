@@ -1,5 +1,6 @@
 # Aidan Neel
 
+
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-f1413d?style=flat&logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -19,5 +20,6 @@
 ![SQL](https://img.shields.io/badge/SQL-F29111?style=flat&logo=mysql&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+
 
 ![Dexter](https://media1.tenor.com/m/oXphM_JeyMoAAAAd/pointing-looking.gif)
