@@ -37,7 +37,7 @@ A full-stack realtime tracking system for atmospheric and maritime monitoring �
 
 ---
 
-### 🧩 aidan-neel/ui  
+### 🧩 (WIP) aidan-neel/ui
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)  
 A WIP UI component library built with **Svelte 5**, **Tailwind CSS**, and **TypeScript** — heavily inspired by shadcn-svelte and focused on accessibility and extensibility.
 
@@ -47,7 +47,7 @@ A WIP UI component library built with **Svelte 5**, **Tailwind CSS**, and **Type
   - CLI Generator *(WIP)*  
   - Themeable & Customizable  
 
-[🔗 View Repo](https://github.com/aidan-neel/ui)
+[🔗 View Repo](https://github.com/aidan-neel/ui) (see `ui` branch)
 
 ---
 
@@ -79,7 +79,7 @@ Cybernetically enhanced Pocketbase apps — a lightweight wrapper for using Pock
 
 ---
 
-### 🗃️ Objects  
+### 🗃️ (WIP) Objects  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 A NoSQL document database written in C++, inspired by Firebase — includes JSON-based storage with runtime schema validation.
 
