@@ -35,6 +35,8 @@ A full-stack realtime tracking system for atmospheric and maritime monitoring �
 
 [🔗 View Repo](https://github.com/IsaiahHarvi/ORION)
 
+---
+
 ### 🧩 aidan-neel/ui  
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)  
 A WIP UI component library built with **Svelte 5**, **Tailwind CSS**, and **TypeScript** — heavily inspired by shadcn-svelte and focused on accessibility and extensibility.
