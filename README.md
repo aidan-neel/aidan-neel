@@ -75,7 +75,7 @@ Cybernetically enhanced Pocketbase apps — a lightweight wrapper for using Pock
   - Drop-in Components  
   - Realtime Friendly  
 
-[🔗 View Repo](https://github.com/yourname/pocketsvelte)
+[🔗 View Repo](https://github.com/aidan-neel/pocketsvelte)
 
 ---
 
@@ -89,7 +89,7 @@ A NoSQL document database written in C++, inspired by Firebase — includes JSON
   - $schema Type Safety  
   - In-Memory Caching for Hot Reads/Writes  
 
-[🔗 View Repo](https://github.com/yourname/objects)
+[🔗 View Repo](https://github.com/aidan-neel/objects)
 
 ![Dexter](https://media1.tenor.com/m/iOV-tnQcoU8AAAAd/dexter-the-series.gif)
 
