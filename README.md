@@ -47,7 +47,7 @@ A WIP UI component library built with **Svelte 5**, **Tailwind CSS**, and **Type
   - CLI Generator *(WIP)*  
   - Themeable & Customizable  
 
-[🔗 View Repo](https://github.com/aidan-neel/ui) (see `ui` branch)
+[🔗 View Repo](https://github.com/aidan-neel/neel-ui) (see `ui` branch)
 
 ---
 
