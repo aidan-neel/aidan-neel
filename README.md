@@ -20,64 +20,36 @@
 
 ## Projects
 
-### 🛰️ Project ORION  
+### Project ORION  
 ![Svelte](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
 
-A full-stack realtime tracking system for atmospheric and maritime monitoring — featuring dynamic weather, UAV, and AIS ship data.
-
+A full-stack realtime tracking system for atmospheric and maritime monitoring. Featuring dynamic weather, UAV, and AIS ship data.
 **1st Place Winner — UAH ACM Hackathon 2025**
-
-- **Tech Stack**: SvelteKit (frontend), Python (backend), Docker (deployment)
-- **Features**:
-  - Realtime Weather Tracking
-  - UAV Live Position Tracking
-  - AIS Ship Data Visualization
-
 [🔗 View Repo](https://github.com/IsaiahHarvi/ORION)
 
 ---
 
-### 🧩 (WIP) aidan-neel/ui
+### (WIP) aidan-neel/ui
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)  
-A WIP UI component library built with **Svelte 5**, **Tailwind CSS**, and **TypeScript** — heavily inspired by shadcn-svelte and focused on accessibility and extensibility.
-
-- **Tech Stack**: Svelte 5, Tailwind CSS, TypeScript  
-- **Features**:
-  - WAI-ARIA Compliant Components  
-  - CLI Generator *(WIP)*  
-  - Themeable & Customizable  
-
+A WIP UI component library built with **Svelte 5**, **Tailwind CSS**, and **TypeScript**. Heavily inspired by shadcn-svelte and focused on accessibility and extensibility.
 [🔗 View Repo](https://github.com/aidan-neel/neel-ui) (see `ui` branch)
 
 ---
 
-### 🔐 aidan-neel/auth  
+### aidan-neel/auth  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-An authentication library for TypeScript apps, designed for flexibility and simplicity — supports multiple adapters like PostgreSQL and Prisma.
-
-- **Tech Stack**: TypeScript  
-- **Features**:
-  - Adapter-Based Auth (PostgreSQL, Prisma, etc.)  
-  - Minimal API  
-  - Built for Svelte, Next, and more *(WIP)*
-
+An authentication library for TypeScript apps, designed for flexibility and simplicity. Supports multiple adapters like PostgreSQL and Prisma.
 [🔗 View Repo](https://github.com/aidan-neel/auth)
 
 ---
 
-### 🧪 Pocketsvelte  
+### Pocketsvelte  
 ![Pocketbase](https://img.shields.io/badge/Pocketbase-1E1E1E?style=flat&logo=data:image/svg+xml;base64,...&logoColor=white)  
-Cybernetically enhanced Pocketbase apps — a lightweight wrapper for using Pocketbase with Svelte and making data binding seamless.
-
-- **Tech Stack**: Pocketbase, Svelte  
-- **Features**:
-  - Reactive Stores for Collections  
-  - Drop-in Components  
-  - Realtime Friendly  
-
+Cybernetically enhanced Pocketbase apps. A lightweight wrapper for using Pocketbase with Svelte and making data binding seamless.
 [🔗 View Repo](https://github.com/aidan-neel/pocketsvelte)
 
 ---
 
 ![Dexter](https://media1.tenor.com/m/iOV-tnQcoU8AAAAd/dexter-the-series.gif)
+
 
