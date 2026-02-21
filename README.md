@@ -3,6 +3,7 @@
 [Website](https://aidan-neel.com)
 
 **Software Developer Intern** @ Trideum Corporation
+
 ---
 
 ## Tech Stack
@@ -54,4 +55,5 @@ Repository: [https://github.com/aidan-neel/pocketsvelte](https://github.com/aida
 ![Dexter](https://media1.tenor.com/m/iOV-tnQcoU8AAAAd/dexter-the-series.gif)
 
 **Note:** Personal account; does not reflect corporate/private GitLab activity.
+
 
